@@ -16,14 +16,13 @@
   <script src="/js/libs/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
-  <a href="https://github.com/adamjacobbecker/wonderland"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
 
   <div class="container-fluid">
     <div class="row-fluid">
       <div id="sidebar">
         <div class="sidebar-nav sidebar-nav-fixed">
           <div class="info">
-            <p id="avatar"><a href="{{site.url}}"><img alt="Title" src="http://s.gravatar.com/avatar/9b335f8228dbbf55711ba32bab4cd591?s=100" /></a></p>
+            <p id="avatar"><a href="{{site.url}}"><img alt="Title" src="https://secure.gravatar.com/avatar/fb8a489da5905d6d1063df02c733fffd?s=100" /></a></p>
             <h3><a href="/">{{site.title}}</a></h3>
             <p class="description">{{site.description}}</p>
           </div>
