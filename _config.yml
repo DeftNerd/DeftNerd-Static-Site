@@ -1,18 +1,13 @@
-title: Adam Becker
-description: "writes code, rides bikes.<br />Oaklander in DC."
+title: Adam Brown
+description: Systems Engineer & Hacker
 
-url: http://ada.mbecker.cc/wonderland
+url: http://www.deftnerd.com
 permalink: pretty
 
-twitter: adamjacobbecker
-github: adamjacobbecker
-dribbble: rigoneri
-lastfm: rigoneri
-lastfm_api_key: e37e6ece4a103780c5dfddd4b95439bd
-soundcloud: guram-kajaia
-soundcloud_api_key: 08278390b588057b5a9bf9ff24c8fd84
-soundcloud_show_artwork: false
-instagram_id: 1574083
+twitter: deftnerd
+github: deftnerd
+lastfm: lockle
+lastfm_api_key: 5f3cb888207d6bc08c5f4509aabe51a0
 
 server: true
 auto: true
